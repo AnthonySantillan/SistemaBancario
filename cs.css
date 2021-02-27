@@ -1,0 +1,38 @@
+.campo
+{
+    position: relative;
+ 
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-color: red;
+    transition-delay: width 3s;
+}
+
+.campo:hover{
+
+    border-color: aqua;
+    font-size: 50;
+    width: 300px;
+    height: 30px;
+    
+}
+
+H1{
+    text-align: center;
+}
+H4{
+    text-align: center;
+}
+body{
+    background-color: coral;
+}
+.marco{
+    position: center;
+    text-align: center;
+    width: 500px;
+    margin-left: 400px;
+    background-color: rgba(0, 0, 0, 0.158);
+    border-color: black;
+    border: 2cm;
+}
